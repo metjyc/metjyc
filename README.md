@@ -32,11 +32,6 @@
 
 ---
 
-### 🐍 활동 그래프
-![snake gif](https://github.com/metjyc/metjyc/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 📫 Contact
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?logo=gmail&logoColor=fff)](mailto:yourmail@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-Dev%20Note-222?logo=githubpages&logoColor=fff)](https://yourblog.com)
