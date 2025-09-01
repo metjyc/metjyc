@@ -17,10 +17,6 @@
 
 ---
 
-https://raw.githubusercontent.com/metjyc/programmers_badge/master/static/result.svg
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=metjyc&show_icons=true&theme=tokyonight" height="150"/>
