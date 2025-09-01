@@ -17,6 +17,10 @@
 
 ---
 
+![Programmers Badge](https://raw.githubusercontent.com/{자기신 깃허브 아이디}/Programmers_Badge_Generator/main/result/result.svg)
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=metjyc&show_icons=true&theme=tokyonight" height="150"/>
