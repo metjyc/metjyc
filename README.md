@@ -17,7 +17,7 @@
 
 ---
 
-![Programmers Badge](https://raw.githubusercontent.com/metjyc/programmers_badge/main/result/result.svg)
+![Programmers Badge](https://raw.githubusercontent.com/metjyc/Algorithm/main/result/result.svg)
 
 ---
 
