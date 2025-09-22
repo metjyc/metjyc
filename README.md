@@ -17,11 +17,11 @@
 
 ---
 
-<p>
+<div align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=metjyc&https://solved.ac/metjyc"/>
   <img src="(http://mazassumnida.wtf/api/v2/generate_badge?boj=metjyc&https://solved.ac/metjyc/">  &nbsp;
   <img src="http://mazandi.herokuapp.com/api?handle=metjyc&theme=warm"/>
-</p>
+</div>
 
 ### 📊 GitHub Stats
 <p align="center">
