@@ -17,6 +17,12 @@
 
 ---
 
+<p>
+  <a href="https://velog.io/@kth1007"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@metjyc"/></a>
+ <a href="mailto:metjyc"><img src="https://img.shields.io/badge/metjyc-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:metjyc"/></a>
+
+</p>
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=metjyc&show_icons=true&theme=tokyonight" height="150"/>
