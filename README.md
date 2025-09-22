@@ -18,9 +18,9 @@
 ---
 
 <p>
-  <a href="https://velog.io/@kth1007"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@metjyc"/></a>
- <a href="mailto:metjyc"><img src="https://img.shields.io/badge/metjyc-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:metjyc"/></a>
-
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=metjyc&https://solved.ac/metjyc"/>
+  <img src="(http://mazassumnida.wtf/api/v2/generate_badge?boj=metjyc&https://solved.ac/metjyc/">  &nbsp;
+  <img src="http://mazandi.herokuapp.com/api?handle=metjyc&theme=warm"/>
 </p>
 
 ### 📊 GitHub Stats
