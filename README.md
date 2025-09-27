@@ -14,7 +14,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-18-339933?logo=node.js&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?logo=mysql&logoColor=fff)
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-5-0170FE?logo=antdesign&logoColor=fff)
-![Data Analysis](https://img.shields.io/badge/Ant%20Design-5-0170FE?logo=data&logoColor=fff)
 
 ---
 
